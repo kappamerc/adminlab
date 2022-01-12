@@ -1,4 +1,4 @@
-name: student112-testapp
+name: student112-testapp1
 replicas: 1
 
 image: ${artifact.metadata.image}
